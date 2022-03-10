@@ -21,5 +21,5 @@
  
   ##
   
-- 🔭 Hoje estou desempregado e estudando emm uma faculdade
+- 🔭 Hoje estou desempregado e estudando
 - 🌱 Estou aprendendo C#
